@@ -1,5 +1,2 @@
-# toy_app
-# toy_app1
-# toy_app1
-# toy_app1
-# toy_app
+#Nguyen Khac Khoi
+#toy app
